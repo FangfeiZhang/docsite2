@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/calling/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/definition/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/categories/functions/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/returning/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/conditionals/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/categories/flow-control/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/loops/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/assign_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/expression_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/flow_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/categories/statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/terminal_based/</loc>
+    <lastmod>2016-05-05T08:48:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/boolean/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/precedence/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/casting/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/comparison/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/concatenation/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/math/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/categories/operators/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/about_types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/arrays/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/booleans/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/numerical/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/strings/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/categories/types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/untyped/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/declaration/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/naming/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/scope/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/categories/variables/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/comments/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/file_creation/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/categories/formatting/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/lolcode/whitespace/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-doc.netlify.com/categories/input/output/</loc>
+  </url>
+  
+</urlset>
